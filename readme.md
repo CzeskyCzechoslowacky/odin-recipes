@@ -5,3 +5,4 @@ I will use basic TAG's of HTML.
 For example:
 Connect between pages of the site using "link"
 Adding images on pages using "img src -with- alt"
+Also include ordered and unordered lists "ol" and "ul" with help "li" in both cases!
