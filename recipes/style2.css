@@ -1,0 +1,17 @@
+
+.all {
+   background-color: rgb(5, 100, 100);
+}
+
+div {
+   color: black;
+}
+
+ul,ol {
+   color: rgb(74, 9, 90);
+   background-color: rgb(198, 125, 30);
+}
+
+li {
+   text-decoration-line: underline;
+}
